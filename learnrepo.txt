@@ -1,0 +1,7 @@
+git status 文件状态
+git clone (http://XXXX) mygithub
+git init 初始化 创建.git子目录
+git add *.c
+git add LICENSE
+git commit -m 'initial project version'
+跟踪已有文件并提交
